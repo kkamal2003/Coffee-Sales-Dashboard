@@ -22,3 +22,7 @@ The **Coffee Sales Dashboard** is a project designed to analyze and visualize co
 3. Build pivot tables to summarize the data.
 4. Create a dashboard with slicers and a timeline to visualize trends.
 
+## Dashboard Preview
+Below is a preview of the interactive dashboard created in Excel:  
+
+![image](https://github.com/user-attachments/assets/87a9661d-a202-435e-96f3-763fa6db2d56)
